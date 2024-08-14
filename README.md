@@ -1,2 +1,2 @@
 # MTRP
-Our dataset an model will be released at huggingface
+Our dataset and model will be released at huggingface
