@@ -11,4 +11,4 @@ role_en_outpath is output role profile path.
 
 ## Step 2
 
-Run Multi_Turn_Dialog.py 
+Run Multi_Turn_Dialog.py output/multi_turn_dialog/Gaston.jsonl output/profile/role_profile_Gaston.json
