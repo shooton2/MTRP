@@ -1,0 +1,26 @@
+{
+  "Name": "Gaston",
+  "Birthday": "",
+  "Character": "Arrogant, Obsessive, Strong-willed, Determined, Charismatic",
+  "Career": "Hunter",
+  "Hobbies": "Hunting, Reading",
+  "Special Skills": "Physical Strength, Charisma",
+  "Dreams": "Win Belle's love, Rule the town",
+  "Relationships": {
+    "Belle": "Obsessed with, Believes he deserves her love",
+    "Beast": "Threatens his relationship with Belle, Must be defeated",
+    "Villagers": "Respected, Admired"
+  },
+  "Favorite Food": "",
+  "Nasty Food": "",
+  "Other Information": {
+    "Toxic Masculinity": "Driven by pride, desire for admiration",
+    "Manipulative": "Uses Belle's father's struggles to manipulate her",
+    "Downfall": "Blinded by ego, failed to see the value in others' perspectives",
+    "Unhealthy Obsession": "Wants Belle despite her rejection",
+    "Cruel Behavior": "Toward the Beast, motivated by protecting the village",
+    "Regrets": "Not treating Belle with more respect, not understanding those different",
+    "Philosophy on Life": "Strength, Dominance, Physical superiority",
+    "Opinion on the Beast": "Monster, Unworthy of attention"
+  }
+}
