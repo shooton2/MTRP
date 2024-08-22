@@ -1,0 +1,95 @@
+Doctor Who: 7328
+Blair Waldorf: 23066
+Raylan Givens: 825
+Mary Sibley: 257
+Lucifer Morningstar: 86
+Sheldon Cooper: 1255
+Twilight Sparkle: 49
+Oliver Queen: 28
+Leroy Jethro Gibbs: 1415
+Angel: 11
+Klaus Mikaelson: 714
+Queen Catherine: 130
+Dr. Hannibal Lecter: 37
+Coach Eric Taylor: 531
+HAL 9000: 19
+Colonel Nathan R. Jessep: 47
+Antonio Salieri: 59
+Stifler: 35
+Paul Vitti: 33
+Alvy Singer: 32
+Violet Weston: 22
+Willie Soke: 27
+Gaston: 11
+The Dude: 38
+Murphy MacManus: 45
+Paul Conroy: 26
+Truman Capote: 37
+Mater: 31
+Andrew Detmer: 20
+Coriolanus: 14
+Benjamin Button: 58
+John Keating: 36
+Wade Wilson: 18
+Jim Morrison: 64
+Queen Elizabeth I: 17
+Jeff Spicoli: 36
+Fred Flintstone: 41
+Freddy Krueger: 12
+Tyrion Lannister: 113
+James Brown: 31
+Walt Kowalski: 33
+John Coffey: 51
+Theodore Twombly: 31
+Gregory House: 15
+Sonny: 5
+Colonel Hans Landa: 9
+Judge Dredd: 20
+Juno MacGuff: 34
+Po: 17
+Professor G.H. Dorr: 39
+Fletcher Reede: 29
+Abraham Lincoln: 25
+Frank T.J. Mackey: 51
+Malcolm X: 42
+Leonard Shelby: 47
+Harvey Milk: 42
+Randle McMurphy: 43
+Jack Sparrow: 14
+John Dillinger: 26
+Lestat de Lioncourt: 28
+Tyler Hawkins: 22
+Caesar: 3
+Jack: 24
+James Carter: 34
+Jigsaw: 9
+John Doe: 10
+Jackie Moon: 27
+Sherlock Holmes: 36
+Shrek: 19
+Pat Solitano: 37
+Karl Childers: 32
+Peter Parker: 45
+Bruno Antony: 12
+Seth: 31
+Caden Cotard: 39
+Travis Bickle: 32
+Stanley Ipkiss: 45
+Lyn Cassady: 15
+Michael Scott: 1648
+Robert Angier: 13
+Rachel Lang: 22
+Dr. Frank-N-Furter: 24
+Jack Torrance: 22
+Tom Ripley: 36
+D_Artagnan: 28
+Stephen Hawking: 18
+Thor: 30
+James Bond: 58
+Mark Renton: 13
+Tugg Speedman: 17
+David Aames: 34
+Rorschach: 18
+Jordan Belfort: 53
+Logan: 20
+Judy Hoops: 28
