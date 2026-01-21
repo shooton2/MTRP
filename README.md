@@ -1,7 +1,10 @@
 # MTRP
-Our dataset and model will be released at huggingface
+Our dataset and model have been released at huggingface: https://huggingface.co/holdhold/MTRPQwen-7B
 
-1.Run role_profile.py
+##1.Run role profile
+'''bash
+python role_profile.py
+'''
 
 role_eng_path is role data file.
 
